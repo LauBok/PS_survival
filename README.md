@@ -11,7 +11,7 @@ Simulation codes for Principal Stratification Analysis of Noncompliance with Tim
 
 Before running the codes, make sure that you have `rstan` configured and package `PStrata` installed.
 
-Guide to get started with RStan: [RStan Website](mc-stan.org/users/interfaces/rstan)
+Guide to get started with RStan: [RStan Website](https://mc-stan.org/users/interfaces/rstan)
 
 To install PStrata, please run the following script in `R`.
 ```{r}
